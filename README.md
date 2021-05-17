@@ -1,13 +1,13 @@
 
-### Hi there 👋
+## XMU-Xiaoma
 
-- 🔭 I’m currently graduate student on *MAC* *(Media and Analytics and Computing)* Lab in *XMU* *(Xiamen University)*
+- **🔭 I’m currently graduate student on MAC Lab in XMU**
 
-- 🌱 I’m currently learning Image Captioning *(IC)*
+- **🌱 I’m currently learning Image Captioning**
 
-- 📫 How to reach me: [mayiwei1998@163.com](mayiwei1998@163.com)
+- **📫 How to reach me: [mayiwei1998@163.com](mayiwei1998@163.com)**
 
-- 💬 About me: [知乎](https://www.zhihu.com/people/jason-14-58-38/posts) 
+- **💬 About me: [知乎](https://www.zhihu.com/people/jason-14-58-38/posts)**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rentainhe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
