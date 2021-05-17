@@ -1,5 +1,7 @@
 
-%### Hi there 👋
+### Hi there 👋
+
+\item I’m currently graduate student on MAC Lab in XMU
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rentainhe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
