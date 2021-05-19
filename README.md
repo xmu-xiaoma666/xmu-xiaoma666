@@ -12,6 +12,8 @@
 
 - **💬 About me: [知乎](https://www.zhihu.com/people/jason-14-58-38/posts)**
 
+- **💬 WeChat: mayiwei1998**
+
 
 <!--
 **xmu-xiaoma666/xmu-xiaoma666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
