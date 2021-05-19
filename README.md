@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rentainhe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- **🔭 I’m currently graduate student on MAC Lab in XMU**
+- **🔭 I’m currently graduate student in MAC Lab of XMU**
 
 - **🌱 I’m currently learning Image Captioning**
 
