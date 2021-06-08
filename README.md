@@ -12,7 +12,7 @@
 
 - **💬 About me: [知乎](https://www.zhihu.com/people/jason-14-58-38/posts)**
 
-- **💬 WeChat: mayiwei1998 **
+- **💬 WeChat: [mayiwei1998](.) **
 
 
 <img src="./wechat.jpg" width="200" height="200" alt="mayiwei1998"/><br/>
