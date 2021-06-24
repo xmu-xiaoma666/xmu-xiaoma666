@@ -15,7 +15,7 @@
 - **💬 WeChat: [mayiwei1998](.)**
 
 
-<img src="./wechat.jpg" width="200" height="200" alt="mayiwei1998"/><br/>
+<!-- <img src="./wechat.jpg" width="200" height="200" alt="mayiwei1998"/><br/> -->
 
 
 <!--
