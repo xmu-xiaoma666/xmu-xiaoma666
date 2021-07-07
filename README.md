@@ -2,7 +2,6 @@
 
 ## xmu-xiaoma66
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rentainhe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - **🔭 I’m currently graduate student in MAC Lab of XMU**
 
@@ -14,8 +13,16 @@
 
 - **💬 WeChat: [xmu_xiaoma](.)**
 
+## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
-<!-- <img src="./wechat.jpg" width="200" height="200" alt="xmu_xiaoma"/><br/> -->
+<a href="https://github.com/doragd">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
+</a>
+
+<a href="https://github.com/doragd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
+</a>
+
 
 
 <!--
