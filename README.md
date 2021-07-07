@@ -1,6 +1,6 @@
 
 
-## Hello 👋, 😄 I am xmu-xiaoma666 ✨.
+## 👋Hello , 😄 I am xmu-xiaoma666 ✨.
 
 
 - **🔭 I’m currently graduate student in MAC Lab of XMU**
