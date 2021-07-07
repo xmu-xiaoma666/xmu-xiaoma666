@@ -15,14 +15,7 @@
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
-<!-- <a href="https://github.com/xmu_xiaoma666"> -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmu_xiaoma666&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-<!-- </a> -->
-
-<!-- <a href="https://github.com/xmu_xiaoma666">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmu_xiaoma666&repo=External-Attention-pytorch&theme=tokyonight&show_icons=true" />
-</a>
- -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xmu-xiaoma66)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
