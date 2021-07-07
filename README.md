@@ -15,7 +15,7 @@
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xmu-xiaoma666)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
