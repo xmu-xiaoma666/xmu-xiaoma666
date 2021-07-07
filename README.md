@@ -15,11 +15,11 @@
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
-<a href="https://github.com/doragd">
+<a href="https://github.com/xmu_xiaoma666">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=xmu_xiaoma666&theme=nightowl&show_icons=true" />
 </a>
 
-<a href="https://github.com/doragd">
+<a href="https://github.com/xmu_xiaoma666">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmu_xiaoma666&repo=External-Attention-pytorch&theme=tokyonight&show_icons=true" />
 </a>
 
