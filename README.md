@@ -1,6 +1,6 @@
 
 
-## xmu-xiaoma66
+## 😄 xmu-xiaoma66
 
 
 - **🔭 I’m currently graduate student in MAC Lab of XMU**
@@ -16,13 +16,13 @@
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
 <a href="https://github.com/xmu_xiaoma666">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=xmu_xiaoma666&theme=nightowl&show_icons=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmu_xiaoma666&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </a>
 
-<a href="https://github.com/xmu_xiaoma666">
+<!-- <a href="https://github.com/xmu_xiaoma666">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmu_xiaoma666&repo=External-Attention-pytorch&theme=tokyonight&show_icons=true" />
 </a>
-
+ -->
 
 
 <!--
