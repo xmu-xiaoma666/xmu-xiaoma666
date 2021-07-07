@@ -16,11 +16,11 @@
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
 <a href="https://github.com/doragd">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=xmu_xiaoma666&theme=nightowl&show_icons=true" />
 </a>
 
 <a href="https://github.com/doragd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmu_xiaoma666&repo=External-Attention-pytorch&theme=tokyonight&show_icons=true" />
 </a>
 
 
