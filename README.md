@@ -11,7 +11,7 @@
 
 - **💬 About me: [知乎](https://www.zhihu.com/people/jason-14-58-38/posts)**
 
-- **💬 WeChat: [xmu_xiaoma](.)**
+- **💬 公众号: [FightingCV](.)**
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
