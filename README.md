@@ -23,5 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmu-xiaoma666&repo=External-Attention-pytorch&theme=tokyonight&show_icons=true" />
 </a>
 
+<a href="https://github.com/xmu-xiaoma666/FightingCV-Paper-Reading">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmu-xiaoma666&repo=FightingCV-Paper-Reading&theme=tokyonight&show_icons=true" />
+</a>
+
  
 
