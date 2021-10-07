@@ -1,9 +1,7 @@
 
 
-## 👋Hello , 😄 I am xmu-xiaoma666 ✨.
+## 👋Hello , 😄 I am xiaoma ✨.
 
-
-- **🔭 I’m currently graduate student in MAC Lab of XMU**
 
 - **🌱 I’m currently learning Image Captioning**
 
