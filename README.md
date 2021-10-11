@@ -1,6 +1,6 @@
 
 
-## 👋Hello , 😄 I am xiaoma ✨.
+## 👋Hello , 😄 I am xiaoma ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.homepage)
 
 
 - **🌱 I’m currently learning Image Captioning**
