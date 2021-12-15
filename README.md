@@ -3,7 +3,7 @@
 ## 👋Hello , 😄 I am xiaoma ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.homepage)
 
 
-- **🌱 I’m currently learning Image Captioning**
+- **🌱 I’m currently learning Image Captioning and Video-Text Retrieval**
 
 - **📫 How to reach me: [mayiwei1998@163.com](mayiwei1998@163.com)**
 
