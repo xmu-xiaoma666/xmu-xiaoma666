@@ -1,9 +1,6 @@
 
 
-## 👋 Hello , 😄 I am xiaoma 🐎 ✨. 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xmu-xiaoma666.xmu-xiaoma666)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+## 👋 Hello , 😄 I am xiaoma 🐎 ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.homepage) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - **🔭 I’m currently intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) now.**
 
