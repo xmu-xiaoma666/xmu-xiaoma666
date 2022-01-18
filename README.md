@@ -1,9 +1,11 @@
 
 
-## 👋Hello , 😄 I am xiaoma ✨. 
+## 👋 Hello , 😄 I am xiaoma 🐎 ✨. 
 
 ![]( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.homepage)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+- **🔭 I’m currently intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) now.**
 
 - **🌱 I’m currently learning Image Captioning and Video-Text Retrieval**
 
