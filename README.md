@@ -15,6 +15,8 @@
 
 - **💬 公众号: [FightingCV](https://mp.weixin.qq.com/s/Uxso0qH8AKInfPL-iy-X0g)**
 
+- **📝 Publications**
+    - [Knowing what it is: Semantic-enhanced Dual Attention Transformer](https://ieeexplore.ieee.org/abstract/document/9749944)
 - **📝 Daily Writing**
     - [从多篇2021年顶会论文看多模态预训练模型最新研究进展](https://zhuanlan.zhihu.com/p/425859974)
     - [从2019年-2021年的各大顶会论文，看动态神经网络的发展](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484386&idx=1&sn=d3275fe4f51d7d559c855adcbc2b42df&chksm=e8c7049edfb08d88ec7805eebbb5236d165ba797982bbe56fe0fddca660e39b8f7faf06372ff&token=876992619&lang=zh_CN#rd)
