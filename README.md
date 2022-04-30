@@ -2,7 +2,7 @@
 
 ## 👋 Hello , 😄 I am xiaoma 🐎 ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.homepage) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- **😄 😄 😄 I am looking for jobs for 2023, my interest is multi-modal pretraining, video-text retrieval, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:mayiwei1998)**
+<!-- - **😄 😄 😄 I am looking for jobs for 2023, my interest is multi-modal pretraining, video-text retrieval, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:mayiwei1998)** -->
 
 
 - **🔭 I’m currently intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) now.**
