@@ -18,6 +18,7 @@
 - **📝 Publications**
     - [Knowing what it is: Semantic-enhanced Dual Attention Transformer](https://ieeexplore.ieee.org/abstract/document/9749944)
 - **📝 Daily Writing**
+    - [一文看尽MAE最新进展！恺明的MAE已经提出大半年，目前发展如何？](https://mp.weixin.qq.com/s/SoZyuX3NmB_8Tyi9F1Nrfw)
     - [从多篇2021年顶会论文看多模态预训练模型最新研究进展](https://zhuanlan.zhihu.com/p/425859974)
     - [从2019年-2021年的各大顶会论文，看动态神经网络的发展](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484386&idx=1&sn=d3275fe4f51d7d559c855adcbc2b42df&chksm=e8c7049edfb08d88ec7805eebbb5236d165ba797982bbe56fe0fddca660e39b8f7faf06372ff&token=876992619&lang=zh_CN#rd)
     - [怎么用图文预训练模型CLIP做视频任务？](https://mp.weixin.qq.com/s/4Wg8tr7hhfRrzG8d4o_iYw)
