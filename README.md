@@ -16,8 +16,9 @@
 - **💬 公众号: [FightingCV](https://mp.weixin.qq.com/s/Uxso0qH8AKInfPL-iy-X0g)**
 
 - **📝 Publications**
-    - [Knowing what it is: Semantic-enhanced Dual Attention Transformer](https://ieeexplore.ieee.org/abstract/document/9749944)
-    - [Knowing What to Learn: A Metric-oriented Focal Mechanism for Image Captioning](https://ieeexplore.ieee.org/document/9802801)
+    - TMM2022 | [Knowing what it is: Semantic-enhanced Dual Attention Transformer](https://ieeexplore.ieee.org/abstract/document/9749944)
+    - TIP2022 | [Knowing What to Learn: A Metric-oriented Focal Mechanism for Image Captioning](https://ieeexplore.ieee.org/document/9802801)
+    - ACM MM2022 | [X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval](https://arxiv.org/abs/2207.07285)
 - **📝 Daily Writing**
     - [一文看尽MAE最新进展！恺明的MAE已经提出大半年，目前发展如何？](https://mp.weixin.qq.com/s/SoZyuX3NmB_8Tyi9F1Nrfw)
     - [从多篇2021年顶会论文看多模态预训练模型最新研究进展](https://zhuanlan.zhihu.com/p/425859974)
