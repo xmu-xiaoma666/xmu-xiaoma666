@@ -12,7 +12,7 @@
 
 - **💬 About me: [知乎](https://www.zhihu.com/people/jason-14-58-38/posts)**
 
-- **💬 公众号: [FightingCV](https://mp.weixin.qq.com/s/Uxso0qH8AKInfPL-iy-X0g)**
+- **💬 公众号: [FightingCV](https://mp.weixin.qq.com/s/sugCZZQEqIZkEkcqjuFujw)**
 
 - **📝 Publications**
     - TMM2022 | [Knowing what it is: Semantic-enhanced Dual Attention Transformer](https://ieeexplore.ieee.org/abstract/document/9749944)
