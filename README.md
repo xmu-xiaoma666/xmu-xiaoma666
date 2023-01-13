@@ -6,7 +6,7 @@
 
 - **🔭 I was an intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) .**
 
-- **🌱 I’m currently learning Image Captioning, Video-Text Retrieval, and Multimodal 3D Editing/Generation**
+- **🌱 I’m currently learning Image Captioning, Video-Text Retrieval, and Multimodal 3D Editing/Generation.**
 
 - **📫 How to reach me: [mayiwei1998@163.com](mayiwei1998@163.com)**
 
