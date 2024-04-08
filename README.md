@@ -4,7 +4,7 @@
 <!-- - **😄 😄 😄 I am looking for jobs for 2023, my interest is multi-modal pretraining, video-text retrieval, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:mayiwei1998)** -->
 
 
-- **🔭 I was an intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) .**
+<!-- - **🔭 I was an intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) .** -->
 
 - **🌱 I’m currently learning Image Captioning, Video-Text Retrieval, and Multimodal 3D Editing/Generation.**
 
