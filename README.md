@@ -27,7 +27,7 @@
 
 ### 🔥 Latest News
 
-- **2026.06** — Two papers accepted by **IJCV**; one by **ACL 2026 (Findings)**; one by **Pattern Recognition**.
+- **2026** — Two papers accepted by **IJCV**; one by **ACL 2026 (Findings)**; one by **Pattern Recognition**.
 - **2025** — One paper accepted by **IEEE TPAMI**; one by **ACM MM 2025**.
 
 ### 🏆 Selected Honors
