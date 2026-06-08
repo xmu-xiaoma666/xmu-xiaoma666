@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 - 🔬 I'm an **Algorithm Engineer** at the [dots](https://studio.dots.ai/?aggregation_id=2) team of **Xiaohongshu (RED)**, working on **Multimodal Large Language Models** and **Text-to-Image Pretraining**.
-- 🎓 I received my **Ph.D.** from the [Department of Artificial Intelligence](https://cogsci.xmu.edu.cn/), **Xiamen University** (MAC Lab), advised by [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/) and [Prof. Xiaoshuai Sun](https://sites.google.com/view/xssun).
+- 🎓 I received my **Ph.D.** from the [Department of Artificial Intelligence](https://cogsci.xmu.edu.cn/), **Xiamen University** (MAC Lab), advised by [Prof. Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=en) and [Prof. Xiaoshuai Sun](https://scholar.google.com/citations?user=KPMK3B4AAAAJ&hl=en).
 - 📚 **27** papers in CCF-A/B venues (17 as first/co-first author, 3 Orals), with **1500+** Google Scholar citations.
 - ⭐ Core developer of [**External-Attention-pytorch**](https://github.com/xmu-xiaoma666/External-Attention-pytorch) (**12k+** stars).
 - 📫 Reach me at **mayiwei1998@163.com** — feel free to chat!
