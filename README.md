@@ -73,10 +73,3 @@ I share paper reading notes and tutorials on **知乎 (Zhihu)** and my WeChat pu
 - More on [FightingCV](https://mp.weixin.qq.com/s/Uxso0qH8AKInfPL-iy-X0g) and [知乎](https://www.zhihu.com/people/jason-14-58-38/posts)
 
 </details>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xmu-xiaoma666&show_icons=true&theme=default&hide_border=true&icon_color=9D849A&title_color=9D849A" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmu-xiaoma666&layout=compact&hide_border=true&title_color=9D849A" alt="Top Languages">
-</p>
