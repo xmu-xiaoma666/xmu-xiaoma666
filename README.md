@@ -27,6 +27,7 @@
 
 ### 🔥 Latest News
 
+- **2026** — Joined the **[dots](https://studio.dots.ai/?aggregation_id=2)** team at **Xiaohongshu (RED)** as an Algorithm Engineer.
 - **2026** — Two papers accepted by **IJCV**; one by **ACL 2026 (Findings)**; one by **Pattern Recognition**.
 - **2025** — One paper accepted by **IEEE TPAMI**; one by **ACM MM 2025**.
 
@@ -37,6 +38,7 @@
 - 🚀 **CAST** Young Talent Support Project for Ph.D. Students (青托), 2025
 - 🎖️ **Baidu Scholarship** — Global Top 40, 2024
 - 🏅 **National Scholarship ×3** (2019 · 2022 · 2024)
+- 🏆 **ESI Highly Cited Paper** — *Towards Local Visual Modeling for Image Captioning* (Pattern Recognition), 2026
 
 ### 📝 Selected Publications
 
