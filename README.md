@@ -25,6 +25,12 @@
 - ⭐ Core developer of [**External-Attention-pytorch**](https://github.com/xmu-xiaoma666/External-Attention-pytorch) (**12.2k+** stars).
 - 📫 Reach me at **mayiwei1998@163.com** — feel free to chat!
 
+### 🏭 Industry
+
+- 🧠 [**dots3-note-prev**](https://huggingface.co/dots-studio/dots3-note-prev) — Preview multimodal MoE model from the dots3 family *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots3-note-prev)] [[Project](https://studio.dots.ai/dots/dots3-en.html)]
+- 🤖 [**dots.vlm1.inst**](https://huggingface.co/rednote-hilab/dots.vlm1.inst) — Instruction-tuned multimodal LLM from the dots series *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots.vlm1)]
+- 📄 [**dots.mocr**](https://huggingface.co/rednote-hilab/dots.mocr) — Multilingual document layout parsing & OCR model *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots.mocr)] [[arXiv](https://arxiv.org/abs/2603.13032)]
+
 ### 🔥 Latest News
 
 - **2026** — Joined the **[dots](https://studio.dots.ai/?aggregation_id=2)** team at **Xiaohongshu (RED)** as an Algorithm Engineer.
@@ -55,9 +61,6 @@
 
 ### 🚀 Open-Source Projects
 
-- 🧠 [**dots3-note-prev**](https://huggingface.co/dots-studio/dots3-note-prev) — Preview multimodal MoE model from the dots3 family *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots3-note-prev)] [[Project](https://studio.dots.ai/dots/dots3-en.html)]
-- 🤖 [**dots.vlm1.inst**](https://huggingface.co/rednote-hilab/dots.vlm1.inst) — Instruction-tuned multimodal LLM from the dots series *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots.vlm1)]
-- 📄 [**dots.mocr**](https://huggingface.co/rednote-hilab/dots.mocr) — Multilingual document layout parsing & OCR model *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots.mocr)] [[arXiv](https://arxiv.org/abs/2603.13032)]
 - ⭐ [**External-Attention-pytorch**](https://github.com/xmu-xiaoma666/External-Attention-pytorch) — PyTorch implementations of Attention / MLP / Re-param / Conv modules *(12.2k+ stars)*
 
 ### ✍️ Writing & Community
