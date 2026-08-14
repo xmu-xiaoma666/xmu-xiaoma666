@@ -21,8 +21,8 @@
 
 - 🔬 I'm an **Algorithm Engineer** at the [dots](https://studio.dots.ai/?aggregation_id=2) team of **Xiaohongshu (RED)**, working on **Multimodal Large Language Models** and **Text-to-Image Pretraining**.
 - 🎓 I received my **Ph.D.** from the [Department of Artificial Intelligence](https://cogsci.xmu.edu.cn/), **Xiamen University** (MAC Lab), advised by [Prof. Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=en) and [Prof. Xiaoshuai Sun](https://scholar.google.com/citations?user=KPMK3B4AAAAJ&hl=en).
-- 📚 **27** papers in CCF-A/B venues (17 as first/co-first author, 3 Orals), with **1500+** Google Scholar citations.
-- ⭐ Core developer of [**External-Attention-pytorch**](https://github.com/xmu-xiaoma666/External-Attention-pytorch) (**12k+** stars).
+- 📚 **27** papers in CCF-A/B venues (17 as first/co-first author, 3 Orals), with **1.6k+** Google Scholar citations.
+- ⭐ Core developer of [**External-Attention-pytorch**](https://github.com/xmu-xiaoma666/External-Attention-pytorch) (**12.2k+** stars).
 - 📫 Reach me at **mayiwei1998@163.com** — feel free to chat!
 
 ### 🔥 Latest News
@@ -46,7 +46,7 @@
 
 - **An Extensive Benchmark for Single-Round and Multi-Round Instruction-Based Image Editing** — *IJCV 2026* [[Code](https://github.com/cocoshe/I2EBench)]
 - **CoP: Chain of Perception for Referring 3D Instance Segmentation** — *IJCV 2026* [[Code](https://github.com/xmu-xiaoma666/CoP)]
-- **Boosting Multi-Modal Large Language Model with Enhanced Visual Features** — *TPAMI 2025* [[Code](https://github.com/xmu-xiaoma666/vMLLM)]
+- **Boosting Multi-Modal Large Language Model with Enhanced Visual Features** — *TPAMI 2026* [[Code](https://github.com/xmu-xiaoma666/vMLLM)]
 - **I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing** — *NeurIPS 2024* [[Code](https://github.com/cocoshe/I2EBench)]
 - **X-Oscar: A Progressive Framework for High-quality Text-guided 3D Animatable Avatar Generation** — *ICML 2024* [[Project](https://xmu-xiaoma666.github.io/Projects/X-Oscar/)]
 - **X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance** — *ICCV 2023* [[Project](https://xmu-xiaoma666.github.io/Projects/X-Mesh/)]
@@ -55,9 +55,10 @@
 
 ### 🚀 Open-Source Projects
 
-- 🤖 [**dots.vlm1.inst**](https://huggingface.co/rednote-hilab/dots.vlm1.inst) — Instruction-tuned multimodal LLM from the dots series *(Xiaohongshu · dots)*
-- 📄 [**dots.mocr**](https://huggingface.co/rednote-hilab/dots.mocr) — Multilingual document layout parsing & OCR model *(Xiaohongshu · dots)*
-- ⭐ [**External-Attention-pytorch**](https://github.com/xmu-xiaoma666/External-Attention-pytorch) — PyTorch implementations of Attention / MLP / Re-param / Conv modules *(12k+ stars)*
+- 🧠 [**dots3-note-prev**](https://huggingface.co/dots-studio/dots3-note-prev) — Preview multimodal MoE model from the dots3 family *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots3-note-prev)] [[Project](https://studio.dots.ai/dots/dots3-en.html)]
+- 🤖 [**dots.vlm1.inst**](https://huggingface.co/rednote-hilab/dots.vlm1.inst) — Instruction-tuned multimodal LLM from the dots series *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots.vlm1)]
+- 📄 [**dots.mocr**](https://huggingface.co/rednote-hilab/dots.mocr) — Multilingual document layout parsing & OCR model *(Xiaohongshu · dots)* [[GitHub](https://github.com/studio-dots-ai/dots.mocr)] [[arXiv](https://arxiv.org/abs/2603.13032)]
+- ⭐ [**External-Attention-pytorch**](https://github.com/xmu-xiaoma666/External-Attention-pytorch) — PyTorch implementations of Attention / MLP / Re-param / Conv modules *(12.2k+ stars)*
 
 ### ✍️ Writing & Community
 
